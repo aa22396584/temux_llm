@@ -53,7 +53,7 @@ dependencies {
     implementation("androidx.core:core-ktx:1.18.0")
     implementation("org.nanohttpd:nanohttpd:2.3.1")
     // Coroutines for the Engine.sendMessageAsync() Flow consumer.
-    implementation("org.jetbrains.kotlinx:kotlinx-coroutines-android:1.10.2")
+    implementation("org.jetbrains.kotlinx:kotlinx-coroutines-android:1.11.0")
     // In-process LiteRT-LM Android SDK (replaces the subprocess wrapper around
     // the v0.11.0-rc.1 CLI binary). Bumps the heavy lifting off ProcessBuilder
     // and into a shared engine that loads the model once and serves multiple
@@ -66,6 +66,6 @@ dependencies {
     // JSONassert keeps wire-format assertions readable across all 4 envelopes.
     testImplementation("junit:junit:4.13.2")
     testImplementation("io.mockk:mockk:1.13.13")
-    testImplementation("org.jetbrains.kotlinx:kotlinx-coroutines-test:1.10.2")
+    testImplementation("org.jetbrains.kotlinx:kotlinx-coroutines-test:1.11.0")
     testImplementation("org.skyscreamer:jsonassert:1.5.3")
 }
