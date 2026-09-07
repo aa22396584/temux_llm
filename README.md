@@ -584,3 +584,9 @@ adb shell am force-stop dev.temuxllm.service
 adb uninstall dev.temuxllm.service
 adb shell rm -rf /data/local/tmp/litertlm /data/local/tmp/bin/litertlm
 ```
+
+---
+
+## Support
+
+If this project saved you some time, you can [buy me a coffee](https://buymeacoffee.com/iml1s).
