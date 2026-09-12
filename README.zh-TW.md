@@ -1,5 +1,10 @@
 # temux_llm — 在 Android 上跑本地 LLM，仿 Ollama
 
+> **開發主頁：** https://github.com/ImL1s/temux_llm  
+> Issues / PR 請開在 GitHub。  
+> **鏡像備份：** [Codeberg](https://codeberg.org/ImL1s/temux_llm) · [GitLab](https://gitlab.com/aa22396584/temux_llm)
+
+
 [English](README.md) · [繁體中文](README.zh-TW.md)
 
 [![build](https://github.com/ImL1s/temux_llm/actions/workflows/build.yml/badge.svg)](https://github.com/ImL1s/temux_llm/actions/workflows/build.yml)

@@ -1,5 +1,10 @@
 # temux_llm — local LLM on Android, ollama-style
 
+> **Development home:** https://github.com/ImL1s/temux_llm  
+> Please open issues and pull requests there.  
+> **Mirrors:** [Codeberg](https://codeberg.org/ImL1s/temux_llm) · [GitLab](https://gitlab.com/aa22396584/temux_llm)
+
+
 [English](README.md) · [繁體中文](README.zh-TW.md)
 
 [![build](https://github.com/ImL1s/temux_llm/actions/workflows/build.yml/badge.svg)](https://github.com/ImL1s/temux_llm/actions/workflows/build.yml)
