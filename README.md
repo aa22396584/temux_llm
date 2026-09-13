@@ -8,6 +8,8 @@ https://github.com/aa22396584/temux_llm
 [Codeberg](https://codeberg.org/ImL1s/temux_llm)
 
 
+> **Why this GitHub home?** Public development moved here from [`ImL1s/temux_llm`](https://github.com/ImL1s/temux_llm) because that GitHub account is currently restricted (anonymous visitors get 404 on the profile and many assets). This is the same project. Please open Issues and Pull Requests here.
+
 [English](README.md) · [繁體中文](README.zh-TW.md)
 
 [![build](https://github.com/aa22396584/temux_llm/actions/workflows/build.yml/badge.svg)](https://github.com/aa22396584/temux_llm/actions/workflows/build.yml)
