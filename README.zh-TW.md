@@ -1,14 +1,13 @@
 # temux_llm — 在 Android 上跑本地 LLM，仿 Ollama
 
-> **開發主頁：** https://github.com/ImL1s/temux_llm  
-> Issues / PR 請開在 GitHub。  
-> **鏡像備份：** [Codeberg](https://codeberg.org/ImL1s/temux_llm) · [GitLab](https://gitlab.com/aa22396584/temux_llm)
+**開發、Issues 與 PR：** https://github.com/aa22396584/temux_llm  
+**鏡像：** [GitLab](https://gitlab.com/aa22396584/temux_llm) · [Codeberg](https://codeberg.org/ImL1s/temux_llm)
 
 
 [English](README.md) · [繁體中文](README.zh-TW.md)
 
-[![build](https://github.com/ImL1s/temux_llm/actions/workflows/build.yml/badge.svg)](https://github.com/ImL1s/temux_llm/actions/workflows/build.yml)
-[![release](https://img.shields.io/github/v/release/ImL1s/temux_llm?include_prereleases)](https://github.com/ImL1s/temux_llm/releases)
+[![build](https://github.com/aa22396584/temux_llm/actions/workflows/build.yml/badge.svg)](https://github.com/aa22396584/temux_llm/actions/workflows/build.yml)
+[![release](https://img.shields.io/github/v/release/aa22396584/temux_llm?include_prereleases)](https://github.com/aa22396584/temux_llm/releases)
 [![license](https://img.shields.io/badge/license-Apache--2.0-blue)](LICENSE)
 [![android](https://img.shields.io/badge/android-13%2B-3DDC84?logo=android&logoColor=white)](https://developer.android.com/about/versions/13)
 [![runtime](https://img.shields.io/badge/runtime-LiteRT--LM%200.11.0--rc1-yellow)](https://github.com/google-ai-edge/LiteRT-LM)

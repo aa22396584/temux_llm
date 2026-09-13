@@ -1,14 +1,17 @@
 # temux_llm — local LLM on Android, ollama-style
 
-> **Development home:** https://github.com/ImL1s/temux_llm  
-> Please open issues and pull requests there.  
-> **Mirrors:** [Codeberg](https://codeberg.org/ImL1s/temux_llm) · [GitLab](https://gitlab.com/aa22396584/temux_llm)
+**Development, Issues & Pull Requests:**  
+https://github.com/aa22396584/temux_llm
+
+**Mirrors:**  
+[GitLab](https://gitlab.com/aa22396584/temux_llm) ·
+[Codeberg](https://codeberg.org/ImL1s/temux_llm)
 
 
 [English](README.md) · [繁體中文](README.zh-TW.md)
 
-[![build](https://github.com/ImL1s/temux_llm/actions/workflows/build.yml/badge.svg)](https://github.com/ImL1s/temux_llm/actions/workflows/build.yml)
-[![release](https://img.shields.io/github/v/release/ImL1s/temux_llm?include_prereleases)](https://github.com/ImL1s/temux_llm/releases)
+[![build](https://github.com/aa22396584/temux_llm/actions/workflows/build.yml/badge.svg)](https://github.com/aa22396584/temux_llm/actions/workflows/build.yml)
+[![release](https://img.shields.io/github/v/release/aa22396584/temux_llm?include_prereleases)](https://github.com/aa22396584/temux_llm/releases)
 [![license](https://img.shields.io/badge/license-Apache--2.0-blue)](LICENSE)
 [![android](https://img.shields.io/badge/android-13%2B-3DDC84?logo=android&logoColor=white)](https://developer.android.com/about/versions/13)
 [![runtime](https://img.shields.io/badge/runtime-LiteRT--LM%200.11.0--rc1-yellow)](https://github.com/google-ai-edge/LiteRT-LM)
