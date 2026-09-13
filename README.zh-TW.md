@@ -1,5 +1,7 @@
 # temux_llm — 在 Android 上跑本地 LLM，仿 Ollama
 
+> **為什麼會有這個倉庫？** 原 GitHub 帳號 [`ImL1s`](https://github.com/ImL1s) 目前被限制（匿名瀏覽會 404），開發已搬到 [`aa22396584/temux_llm`](https://github.com/aa22396584/temux_llm)。這是同一個專案，Issues / PR 請開在這裡。
+
 **開發、Issues 與 PR：** https://github.com/aa22396584/temux_llm  
 **鏡像：** [GitLab](https://gitlab.com/aa22396584/temux_llm) · [Codeberg](https://codeberg.org/ImL1s/temux_llm)
 
